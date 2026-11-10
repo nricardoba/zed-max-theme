@@ -1,0 +1,7 @@
+id = "max-theme"
+name = "Max Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ricardo Araújo <nricardoba@gmail.com>"]
+description = "Work in progress..."
+repository = "https://github.com/nricardoba/zed-max-theme"
