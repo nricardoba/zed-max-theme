@@ -2,6 +2,12 @@
 
 A dark theme for [Zed](https://zed.dev) with syntax highlighting based on One Dark.
 
+## Screenshot
+
+### Max Dark
+
+![Max Dark Screenshot](./assets/max-dark-screenshot.png)
+
 ## Credits
 
 - [Min Theme for VSCode](https://github.com/miguelsolorio/min-theme) by Miguel Solorio: Original inspiration.
